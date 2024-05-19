@@ -1,0 +1,15 @@
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\bin\Debug\daylyrutine.exe.config
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\bin\Debug\daylyrutine.exe
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\bin\Debug\daylyrutine.pdb
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.csproj.AssemblyReference.cache
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.Form1.resources
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.Properties.Resources.resources
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.csproj.GenerateResource.cache
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.csproj.CoreCompileInputs.cache
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.exe
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.pdb
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.menuvertical.resources
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.avance.resources
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.cronometro.resources
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.habito.resources
+C:\Users\Alberto (Gero PC)\source\repos\daylyrutine\daylyrutine\obj\Debug\daylyrutine.tarea.resources
